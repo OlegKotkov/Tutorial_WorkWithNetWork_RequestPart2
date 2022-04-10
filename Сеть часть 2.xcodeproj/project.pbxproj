@@ -16,6 +16,7 @@
 		BD19EF4C27F234AD00EB34AD /* ___________2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD19EF4B27F234AD00EB34AD /* ___________2Tests.swift */; };
 		BD19EF5627F234AD00EB34AD /* ___________2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD19EF5527F234AD00EB34AD /* ___________2UITests.swift */; };
 		BD19EF5827F234AD00EB34AD /* ___________2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD19EF5727F234AD00EB34AD /* ___________2UITestsLaunchTests.swift */; };
+		BD19EF6527F235A100EB34AD /* Joke.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD19EF6427F235A100EB34AD /* Joke.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BD19EF5127F234AD00EB34AD /* Сеть часть 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Сеть часть 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD19EF5527F234AD00EB34AD /* ___________2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___________2UITests.swift"; sourceTree = "<group>"; };
 		BD19EF5727F234AD00EB34AD /* ___________2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___________2UITestsLaunchTests.swift"; sourceTree = "<group>"; };
+		BD19EF6427F235A100EB34AD /* Joke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Joke.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BD19EF3427F234AB00EB34AD /* AppDelegate.swift */,
 				BD19EF3627F234AB00EB34AD /* SceneDelegate.swift */,
 				BD19EF3827F234AB00EB34AD /* ViewController.swift */,
+				BD19EF6427F235A100EB34AD /* Joke.swift */,
 				BD19EF3A27F234AB00EB34AD /* Main.storyboard */,
 				BD19EF3D27F234AD00EB34AD /* Assets.xcassets */,
 				BD19EF3F27F234AD00EB34AD /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				BD19EF3927F234AB00EB34AD /* ViewController.swift in Sources */,
 				BD19EF3527F234AB00EB34AD /* AppDelegate.swift in Sources */,
+				BD19EF6527F235A100EB34AD /* Joke.swift in Sources */,
 				BD19EF3727F234AB00EB34AD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
